@@ -147,20 +147,6 @@ output.json
 # Replacement of .externalNativeBuild directories introduced
 # with Android Studio 3.5.
 
-### Data ###
-*.csv
-*.dat
-*.efx
-*.gbr
-*.key
-*.pps
-*.ppt
-*.pptx
-*.sdf
-*.tax2010
-*.vcf
-*.xml
-
 ### Flutter ###
 # Flutter/Dart/Pub related
 **/doc/api/
